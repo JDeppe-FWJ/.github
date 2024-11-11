@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This organization houses all of the repositories created during my [FWJ](https://www.deutschland.de/de/topic/wissen/universitaet-forschung/das-freiwillige-wissenschaftliche-jahr) (Frewilliges Wissenschaftliches Jahr) at the [IDMP](https://www.idmp.uni-hannover.de/de/) (Institut für Physik und Mathematik Didaktik) at the [LUH](https://www.uni-hannover.de/de/) (Leibniz University Hannover)! This includes repositories for my main project concerning eye tracking as well as any side projects I did or anything I helped with. Lots of the repos are set to private out of data privacy reasons, but some get to stay public!
+This organization houses all of the repositories created during my [FWJ](https://www.deutschland.de/de/topic/wissen/universitaet-forschung/das-freiwillige-wissenschaftliche-jahr) (Frewilliges Wissenschaftliches Jahr) at the [IDMP](https://www.idmp.uni-hannover.de/de/) (Institut für Didaktik der Mathematik und Didaktik) at the [LUH](https://www.uni-hannover.de/de/) (Leibniz University Hannover)! This includes repositories for my main project concerning eye tracking as well as any side projects I did or anything I helped with. Lots of the repos are set to private out of data privacy reasons, but some get to stay public!
 
 
 
